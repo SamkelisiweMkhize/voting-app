@@ -1,0 +1,33 @@
+.form {
+  margin-top: 2rem;
+  padding: 2rem;
+  background-color: rgb(208, 240, 249);
+  width: 50rem;
+  margin-left: 5rem;
+  text-align: center;
+  height: 25rem;
+}
+.header {
+  text-align: center;
+  margin-right: 30rem;
+}
+
+.result {
+  margin-top: 2rem;
+  transform: rotate(15deg);
+  float: right;
+  position: relative;
+  margin-left: 7rem;
+}
+
+h1 {
+  text-shadow: 2px 2px #f6350f;
+}
+
+.container {
+  position: relative;
+  font-family: Arial;
+  width: 30%;
+  margin-left: 5rem;
+  transform: rotate(-15deg);
+}
